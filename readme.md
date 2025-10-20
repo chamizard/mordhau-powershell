@@ -21,7 +21,7 @@ Meaning: **NO SKILLS**
 
 To use or mute the radio:
 
-Type **!radio** or **.radio**
+Type *!radio* or **.radio**
 
 To disable:
 
