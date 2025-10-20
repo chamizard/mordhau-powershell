@@ -16,3 +16,15 @@ Meaning: **NO SKILLS**
 - Player whisper enabled
 - 30 second timer between waves
 - Team damage enabled
+
+##### Radio
+
+To use or mute the radio:
+
+Type **!radio** or **.radio**
+
+To disable:
+
+Go to audio settings
+
+You can also set a keybind to open the radio menu in audio settings.
