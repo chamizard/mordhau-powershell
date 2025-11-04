@@ -7,6 +7,7 @@ Meaning: **NO SKILLS**
 ### Mod List
 
 1. <a id="Old Horde - by SoomRK">https://mod.io/g/mordhau/m/old-horde-source-files-included#description</>
+2. <a id="Bonus Horde Features - by SoomRK">https://mod.io/g/mordhau/m/bonus-horde-features-server-only#description</>
 2. <a id="[HRD] Gilneas - by SoomRK">https://mod.io/g/mordhau/m/hrd-gilneas#description</>
 3. <a id="Server Side Commands - by Triumvirat">https://mod.io/g/mordhau/m/server-side-commands#description</>
 4. <a id="Meta Mod - by KingDespacito">https://mod.io/g/mordhau/m/metamod#description</>
